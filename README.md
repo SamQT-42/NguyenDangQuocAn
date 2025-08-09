@@ -16,6 +16,8 @@
 ###
 
 <h2 align="left">I code with</h2>
+<img alt="Static Badge" src="https://img.shields.io/badge/css-Junior-FFFFFF?style=for-the-badge&logo=css&logoColor=yellpow">
+
 
 ###
 
